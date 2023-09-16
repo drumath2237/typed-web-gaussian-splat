@@ -1,3 +1,5 @@
+import "/src/style.css";
+
 let cameras = [
   {
     id: 0,
